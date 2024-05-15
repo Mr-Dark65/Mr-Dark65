@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Soy Steeven Loor</h1>
-# 💫 About Me:
 🌱 Actualmente estoy aprendiendo JavaScript, React y C#<br>👨‍🎓 Estoy estudiando en la Universidad Técnica de Ambato<br>👨‍💻 Todos mis proyectos están disponibles en https://github.com/Mr-Dark65<br>💬 Pregúntame sobre Java, HTML, Phyton<br>⚡Dato curioso tengo muchas ganas de aprender nuevas tecnologías.<br>
 
 
